@@ -151,6 +151,18 @@
       left:50px;
       right:inherit;
     }
+      
+      .randomclass2{
+          content: '';
+    position:absolute;
+    width:10px;
+    height:10px;
+    background:rgba(59,112,239,1);
+    border-radius:50%;
+    box-shadow: 0 0 0 3px rgba(58,112,239,0.2);
+    right:-6px;
+    top:24px;
+          z-index:1;}
   
     
   }
