@@ -207,3 +207,10 @@
     z-index=1;
     width=25em;
 }
+
+.randomfinal{
+    overflow: visible;
+    letter-spacing: 2px;
+    line-height: 80%;
+    border-collapse: separate;
+}
