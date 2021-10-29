@@ -199,3 +199,11 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.textboxfinal{
+    padding:20em;
+    margin-left: 20px;
+    margin-right: 10px;
+    z-index=1;
+    width=25em;
+}
