@@ -166,3 +166,13 @@
   
     
   }
+
+.checkboxtoolbar{
+    padding-top:20em;
+    padding-left:10em;
+    border-radius:20em;
+    border-color:coral;
+    z-index=2;
+    width=15em;
+    
+}
