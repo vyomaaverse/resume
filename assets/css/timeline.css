@@ -183,4 +183,13 @@
     background:rgb(57,22,115);
     border-color:coral;
 }
-    
+
+.educationalbox{
+    letter-spacing: 3px;
+    margin-bottom: 25px;
+    margin-left: 35px;
+    margin-right: 40px;
+    margin-top: 20px;
+    min-height: 200px;
+}
+
