@@ -176,3 +176,11 @@
     width=15em;
     
 }
+
+.randombox{
+    width:20px;
+    height:10px;
+    background:rgb(57,22,115);
+    border-color:coral;
+}
+    
