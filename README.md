@@ -1,4 +1,2 @@
 # resume
-web-based resume 
-heuristic-shannon-b4316f.netlify.app/
-Nandita Tomar
+[web-based resume ](heuristic-shannon-b4316f.netlify.app/)
